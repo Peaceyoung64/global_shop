@@ -2,6 +2,14 @@
 
 A Power BI dashboard built to give GlobalShop International leadership a single source of truth on revenue, product performance, customer behavior, and regional sales — replacing fragmented, delayed, and inconsistent manual reporting.
 
+### Executive Summary
+
+<img width="899" height="555" alt="globalshop 1" src="https://github.com/user-attachments/assets/12f9fda0-1927-487b-98c3-543574e769c7" />
+
+### Product Performance
+
+<img width="896" height="552" alt="globalshop2" src="https://github.com/user-attachments/assets/e22cd360-4ca4-4c65-bc9e-a73079af5657" />
+
 ## Business Problem
 
 GlobalShop International, a global bicycle and accessories retailer, was operating without reliable visibility into its own performance:
