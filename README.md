@@ -54,23 +54,12 @@ Build a self-service Power BI dashboard that gives stakeholders a trusted, real-
 - **Power BI** — data modeling, DAX measures, dashboard design
 - **DAX** — KPI calculations, margin classification, trend measures
 
-## Repository Contents
-
-```
-├── GlobalShop_Dashboard.pbix     # Power BI source file
-├── screenshots/                  # Dashboard page exports
-└── README.md
-```
-
-## How to Use
-
-1. Clone the repository.
-2. Open `GlobalShop_Dashboard.pbix` in Power BI Desktop.
-3. Refresh the data connection if source files have moved.
-4. Use the top navigation buttons to move between Executive Summary, Product Performance, Customer Analytics, and Regional Performance.
 
 ## Author
 
 **Nnadika Nnetachukwu Peace**
+
 Data Analytics Coach & Consultant, SharaShell Technology Limited
-[GitHub](https://github.com/Peaceyoung64) · [LinkedIn](https://www.linkedin.com/in/nnadika-nnetachukwu-peace-385918396/)
+[GitHub](https://github.com/Peaceyoung64) 
+
+[LinkedIn](https://www.linkedin.com/in/nnadika-nnetachukwu-peace-385918396/)
