@@ -1,7 +1,7 @@
 # GlobalShop International — Sales & Performance Dashboard
 
 ## Table of Content
-[Data Model & Methodology](data model & methodology)
+[Data Model & Methodology](#data-model-&-methodology)
 
 A Power BI dashboard built to give GlobalShop International leadership a single source of truth on revenue, product performance, customer behavior, and regional sales — replacing fragmented, delayed, and inconsistent manual reporting.
 
